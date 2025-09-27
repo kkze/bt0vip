@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name         不太灵VIP
 // @namespace    http://tampermonkey.net/
