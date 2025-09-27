@@ -24,7 +24,6 @@
 // @grant        none
 // @run-at       document-end
 // @license MIT
-// 测试更新
 // ==/UserScript==
 (function() {
     'use strict';
