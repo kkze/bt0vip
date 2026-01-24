@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         不太灵VIP
 // @namespace    http://tampermonkey.net/
-// @version      1.7
+// @version      1.8
 // @description  删除不太灵的VIP查看限制和模糊效果
 // @author       kkzh
 // @match        https://*.mukaku.com/*
