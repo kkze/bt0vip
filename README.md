@@ -6,7 +6,7 @@
 
 [GreasyFork镜像站](https://gfork.zh-tw.eu.org/zh-hans/scripts/540766)
 
-该脚本用于破解不太灵影视的vip，本脚本免费发布更新，如果有帮到你，请在github给我点个star⭐
+该脚本用于破解不太灵影视的vip，本脚本免费发布更新，如果有帮到你，请在github给我点个star⭐，
 如果你发现不可用，请通过greasyfork的讨论或issues告诉我你所访问的域名和使用的设备。
 
 最近有人告知，闲鱼有人售卖该脚本，我对此不作任何评价，希望你们在销售时给到我的原发布页面
