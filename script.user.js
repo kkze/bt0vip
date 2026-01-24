@@ -5,6 +5,7 @@
 // @description  删除不太灵的VIP查看限制和模糊效果
 // @author       kkzh
 // @match        https://*.mukaku.com/*
+// @match        https://*.butailing.com/*
 // @match        https://www.butai0.club/*
 // @match        https://www.butai0.xyz/*
 // @match        https://www.butai0.dev/*
